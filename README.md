@@ -30,5 +30,5 @@ Raza, Rehan, et al. "Lung-EffNet: Lung Cancer Classification Using EfficientNet 
 
 ## Contact
 
-rehanrazag@gmail.com
+rehanrazag@gmail.com & 
 fati.zulfiar@gmail.com
